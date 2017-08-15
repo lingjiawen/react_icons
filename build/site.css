@@ -1,0 +1,22 @@
+.app_box {
+    display: block;
+    width: 12em;
+    height: 12em;
+    margin:0 auto;
+    text-align: center;
+    line-height: 12em;
+    color: #8a8a8a;
+}
+
+.app_box:hover {
+    color: firebrick;
+    background-color: #e6e6e6;
+}
+.main_box {
+    height: 100%;
+    background-color: #FFFFF3;
+}
+
+.container {
+    margin: 100px;
+}
